@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ajowa.webdummy.info/aset/sitemap.xml
